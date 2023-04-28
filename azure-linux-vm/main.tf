@@ -117,11 +117,11 @@ resource "azurerm_linux_virtual_machine" "my_terraform_vm" {
   }
 
   computer_name                   = "myvm"
-  admin_username                  = "azureuser"
+  admin_username                  = "mainuser"
   disable_password_authentication = true
 
   admin_ssh_key {
-    username   = "azureuser"
+    username   = "mainuser"
     public_key = tls_private_key.example_ssh.public_key_openssh
   }
 

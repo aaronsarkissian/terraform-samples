@@ -16,7 +16,7 @@ jobs:
         continue-on-error: true
         uses: snyk/actions/iac@master
         with:
-          sarif: true
+          file: azure-linux-vm
         env:
           SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
       - name: Upload result to GitHub Code Scanning

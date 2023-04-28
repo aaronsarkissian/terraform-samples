@@ -1,6 +1,6 @@
 variable "resource_group_location" {
   type        = string
-  default     = "us-east-2"
+  default     = "eastus2"
   description = "Location of the resource group."
 }
 

@@ -2,21 +2,21 @@
 # Manual edits may be lost in future updates.
 
 provider "registry.terraform.io/hashicorp/azurerm" {
-  version     = "3.54.0"
+  version     = "3.65.0"
   constraints = "~> 3.52"
   hashes = [
-    "h1:W2hEosW24T2nu+lDuImD3N5T6bxJYPpui4JWHKdNGLQ=",
-    "zh:0b5c5ffecc73c0f24f6c06c73883153affcb69a0a05376c4a34d71566be7c1e0",
-    "zh:0fb685212f914856c01b7182e2669b9b6d7a3cb77578e2d789baaab3e58fc63e",
-    "zh:3d938b865b36f4821a97e70dbbf8a22f498fb4e9848012c62e8ff2c1461d0760",
-    "zh:42d506add9bba2e96780c0b406f2d6020cf042ffae96faf96988a959766b3644",
-    "zh:433b105444462528f3b3e8619a2edbef6dbd5ce0c694f37ab86d91540c1e427a",
-    "zh:66c3cffd8b01413914703b1728d378e6d37d3b929e84c2a875ad125b828ce1d4",
-    "zh:7cb7187bfcca6f2d4e9d32544b2ca678b65c7c9f520b402d04301152be0c0aa3",
-    "zh:accf83e742d7edfe920b62523a190180257cd59180d0ec0435bf09b74a18e0ae",
-    "zh:c07b4d169931852007b2ba0ad6aaa24e10e9e3b17731080002ef927fb9912483",
-    "zh:e43d945e51228dfb0e1032590fb9409b2b89c40ec8a29cfd2efbd51c536a75a4",
-    "zh:ee248b8cf65fa9d3e8d3859cfcdc6940de5806bdc181b1a794085de162cceb7e",
+    "h1:FtmOhwfOvkNc8zdD4iXBvJX7kjfoegGKlvCK0NiAasM=",
+    "zh:0077d19c1cbd8916a6d96bad17e72f88535ac207fb7f88b714c6fc6da736f80d",
+    "zh:084f9de2f0f84e6508f81b6578ff195afeed79e5d18a0c8d2348abd7d22611c9",
+    "zh:0ea05826c0f9d2e4a5a9887e6d182ba1a5db6eba52b22eb45f0b8576d2d5ddb5",
+    "zh:5142f9cf59f8152bdb9debcdc39c04cb4ca8b26bd50e44f4605b2bcdc4fc514e",
+    "zh:67af71aa233dbe5e2ce59f8b8aa02a7ce71f55b4389dc6bdd1c85e463f810f37",
+    "zh:785b2c4845a0e99fc1a00d1c293cee49cf150a4f1a83d86632dd3fcd9e953d9c",
+    "zh:aae6352ff80d760bebd2148cd86a544cd6df8e1e5abd6d472143e40875983428",
+    "zh:aff6914ad258d27781ba66a915ef714a3f0d31136eeb06b12ed2220cc6530b4b",
+    "zh:b21ca9e271db7a57e5f08bf2b47bd8db291faf699fabf14bb38d4a73a9a05c21",
+    "zh:c8ff94c42249a9fdab87b6c974d6eb59af4c01c955cd76279b7a4f66eacd9754",
+    "zh:f4053b76a6efd46f79b45098c3e3df06b8e6340532970c91d1a9ead63dcf72b6",
     "zh:f569b65999264a9416862bca5cd2a6177d94ccb0424f3a4ef424428912b9cb3c",
   ]
 }
